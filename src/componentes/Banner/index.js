@@ -11,7 +11,8 @@ export default function Banner() {
                     Olá, Mundo!
                 </h1>
                 <p className={styles.paragrafo}>
-                    Boas Vindas ao meu espaço pessoal! eu sou o Gustavo Foss Silva
+                    Boas Vindas ao meu espaço pessoal! eu sou o Gustavo Foss Silva,
+                    Desenvolvedor FullStack, em busca de novas oportunidades
                 </p>
             </div>
             <div className={styles.imagens}>
