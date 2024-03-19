@@ -1,7 +1,10 @@
+import Banner from "componentes/Banner";
+
 export default function SobreMim() {
     return (
-        <div>
+        <main>
+            <Banner />
             <h1>SobreMim</h1>
-        </div>
+        </main>
     );
 }
